@@ -1,4 +1,4 @@
-# Techwondoe Assessment
+# Techwondoe Frontend Assessment
 
 Deployed Link: https://techwondoe-frontend-assignment.vercel.app/
 
