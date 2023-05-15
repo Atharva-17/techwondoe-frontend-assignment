@@ -117,7 +117,7 @@ const DataTable = ({
       email: target?.Email.value,
       last_login: Date.now().toString(),
       role: target?.Role.value,
-      img: "http://dummyimage.com/202x100.png/5fa2dd/ffffff",
+      img: "https://randomuser.me/api/portraits/men/20.jpg",
     };
 
     postData("https://techwondoe-assignment-server.onrender.com/data", user).then(
